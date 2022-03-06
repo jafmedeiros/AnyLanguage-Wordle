@@ -1,7 +1,12 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
+  'awaas',
+  'kiz8s',
+  'n8lka',
+  'al8sa',
   'pegdi',
+  'al8ka',
 ]
 
 if (CONFIG.normalization) {
