@@ -5,6 +5,7 @@ export const WORDS = [
   'kiz8s',
   'n8lka',
   'al8sa',
+  'pegdi',
   'al8ka',
 ]
 
