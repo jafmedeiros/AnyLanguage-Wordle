@@ -1,11 +1,11 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'niona',
-  'kizos',
-  'nolka',
-  'alosa',
-  'aloka',
+  'ni8na',
+  'kiz8s',
+  'n8lka',
+  'al8sa',
+  'al8ka',
 ]
 
 if (CONFIG.normalization) {

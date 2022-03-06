@@ -9,7 +9,6 @@ export const VALIDGUESSES = [
   'gilan',
   'hagul',
   'hagun',
-  'hamom',
   'hasba',
   'hawil',
   'hidin',
@@ -19,7 +18,6 @@ export const VALIDGUESSES = [
   'mandi',
   'midin',
   'milit',
-  'momst',
 ]
 
 if (CONFIG.normalization) {
