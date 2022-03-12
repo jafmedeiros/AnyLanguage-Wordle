@@ -1,23 +1,12 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'anist',
-  'anjam',
-  'balgi',
-  'balim',
-  'bilan',
-  'gilan',
-  'hagul',
-  'hagun',
-  'hasba',
-  'hawil',
-  'hidin',
-  'hilin',
-  'jilks',
-  'mamst',
-  'mandi',
-  'midin',
-  'milit',
+  'Wd8w8',
+  'kiz8s',
+  'n8lka',
+  'al8sa',
+  'pegdi',
+  'al8ka',
 ]
 
 if (CONFIG.normalization) {

@@ -1,12 +1,32 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
+  'tos8n',
+  'wdopi',
+  'mziwi',
+  '8lawi',
+  'aples',
+  'pakwa',
+  '8gwni',
+  'kw8zo',
+  'megos',
+  'mnoda',
   'awaas',
-  'kiz8s',
-  'n8lka',
-  'al8sa',
-  'pegdi',
-  'al8ka',
+  'wisn8',
+  'wz8mi',
+  'kaodi',
+  'mawia',
+  'pmowa',
+  'akwan',
+  'pigua',
+  'whaga',
+  'wskan',
+  'ab8na',
+  'kz8bo',
+  'pziko',
+  'minot',
+  'pag8n',
+  'tabna',
 ]
 
 if (CONFIG.normalization) {
